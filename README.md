@@ -4,7 +4,7 @@
 
 <div>
 <a href="https://github.com/igorLAO">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorLAO-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorLAO&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?igorLAO-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
