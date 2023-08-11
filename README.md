@@ -1,13 +1,20 @@
+
+
+
 - Hello!!! My name is igor, Welcome to my github
 - I’m currently JavaScript and mySQL
 
+<div>
+  <img src='https://i.gifer.com/origin/77/77cea6e9619b4e202f6c22c603d01e0a_w200.gif'/>
+</div>
+
+
+
+
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=igorLAO&show_icons=true)
 
-<div>
-<a href="https://github.com/igorLAO">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorLAO&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?igorLAO-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorLAO&layout=compact)](https://github.com/igorLAO/github-readme-stats)
+
 
 
 <div>
@@ -17,4 +24,4 @@
 </div>
 
 
-![Snake animation](https://github.com/igorLAO/igorLAO/blob/output/github-contribution-grid-snake.svg)
+
