@@ -1,12 +1,8 @@
+  <img src='https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png'/>
 
 
-
-- Hello!!! My name is igor, Welcome to my github
+- Hello!!! My name is igor
 - I’m currently JavaScript and mySQL
-
-<div>
-  <img src='https://i.gifer.com/origin/77/77cea6e9619b4e202f6c22c603d01e0a_w200.gif'/>
-</div>
 
 
 
