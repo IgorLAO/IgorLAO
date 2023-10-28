@@ -1,5 +1,5 @@
   <img src='https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png'/>
-  <img src='https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png'/>
+  <img src='https://pt.bloggif.com/tmp/e540df01a30352e3415f04f0ecd74a87/text.gif?1698517416'/>
 
 
 
