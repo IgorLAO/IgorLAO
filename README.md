@@ -1,8 +1,5 @@
   <img src='https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png'/>
-
-
-- Hello!!! My name is igor
-- I’m currently JavaScript and mySQL
+  <img src='https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png'/>
 
 
 
