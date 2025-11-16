@@ -1,17 +1,7 @@
-  <img src='https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png'/>
+ ##  Hi, i'm Igor Alves <img src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" height="80px" width="80px">
 
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=igorLAO&show_icons=true)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorLAO&layout=compact)](https://github.com/igorLAO/github-readme-stats)
-
-
-
-<div style="display:  flex;">
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "http://igooli670@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https:/www.linkedin.com/in/igor-l" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-
-
+- :mortar_board: computer engineering student at [SENAC]([https://www.sp.senac.br]).
+- :four_leaf_clover: Brazilian, software engineer.
+- :computer: Javascript, Typescript, Java, Python, GO, C#.
+- 🍝 Listening to music, lifting some weights and coding 🔥
