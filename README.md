@@ -5,3 +5,5 @@
 - :four_leaf_clover: Brazilian, software engineer.
 - :computer: Javascript, Typescript, Java, Python, GO, C#.
 - 🍝 Listening to music, lifting some weights and coding 🔥
+
+<img src="https://komarev.com/ghpvc/?username=IgorLAO&&style=flat-square" align="center" />
