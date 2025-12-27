@@ -3,7 +3,7 @@
 
 - :mortar_board: computer engineering student at [SENAC](https://www.sp.senac.br).
 - :four_leaf_clover: Brazilian, software engineer.
-- :computer: Javascript, Typescript, Java, Python, GO, C#.
+- :computer: Javascript, Typescript, Java, Python, GO, C#, Visual Basic.
 - 🍝 Listening to music, lifting some weights and coding 🔥
 
 <img src="https://komarev.com/ghpvc/?username=IgorLAO&&style=flat-square" align="center" />
